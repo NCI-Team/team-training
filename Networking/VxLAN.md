@@ -43,4 +43,4 @@ You are encouraged to explore multiple resources, not just the videos listed bel
 - Explain the drawbacks of VXLAN compared to traditional VLANs.
 
 ---
-![VXLAN](../../Images/vxlan.jpg)
+![VXLAN](../Images/vxlan.jpeg)
