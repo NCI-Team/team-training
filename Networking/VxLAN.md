@@ -38,9 +38,4 @@ You are encouraged to explore multiple resources, not just the videos listed bel
 - How does control-plane learning (e.g., with EVPN) improve over flood-and-learn in VXLAN deployments?
 
 ---
-
-### Bonus Question
-- Explain the drawbacks of VXLAN compared to traditional VLANs.
-
----
 ![VXLAN](../Images/vxlan.jpeg)
