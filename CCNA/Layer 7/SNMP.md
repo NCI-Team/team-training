@@ -1,10 +1,11 @@
-### Goals
+# Goals
+
 - The trainee will understand SNMP protocol
-- The trainee will be familliar with the diffrent SNMP versions
-- The trainee will be familliar with the different SNMP operations
+- The trainee will be familiar with the different SNMP versions
+- The trainee will be familiar with the different SNMP operations
 
+## Tasks
 
-### Tasks
 - What is SNMP?
 - What are SNMP agent and network management system (NMS)?
 - What is a MIB in SNMP?
