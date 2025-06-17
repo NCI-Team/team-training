@@ -5,7 +5,7 @@
     1. Describe the packet header of IPv4 packets.
     1. Explain the flow of the ARP protocol.
     2. What is ARP Spoofing?
-    3. Explain what is a gratuitous ARP and how it prevents flooding. Familirize yourslef with the term "silent host".
+    3. Explain what is a gratuitous ARP and how it prevents flooding. Familiarize yourself with the term "silent host".
     4. In IPv6, what is a link-local address? Why does every IPv6-enabled device have one, and how is it different from a global unicast address?
     5. Compare ARP operation in IPv4 networks versus how address resolution is handled in IPv6 networks.
     6. What is the purpose of the loopback IP address (127.0.0.1)? How is it useful during troubleshooting?

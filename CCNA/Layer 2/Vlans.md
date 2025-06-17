@@ -1,20 +1,22 @@
-### Goals
-- The trainee understand the concept of vlans
-- The trainee will understand how vlans work
-- The trainee will know how to configure vlans 
+# Goals
 
+- The trainee understand the concept of vlans.
+- The trainee will understand how vlans work.
+- The trainee will know how to configure vlans.
 
-### Tasks
+## Tasks
 
-- What are vlans? 
+- What are vlans?
 - What are the benefits of using vlans?
 - How do vlans work? Explain in detail.
 - What is the difference between trunk and access ports? How vlan tagging works in each one?
 - There is more than one type of vlan, two of them are native vlan and default vlan. Explain each one and what is the difference between them.
-- Configure the following lab:<br>
+- Configure the following lab:
+
 ![VLANS](../../Images/vlans-lab.png)
 
-<ins>Addressing Table</ins>
+### Addressing Table
+
 | Hostname | Interface | IP Address     | Subnet Mask     | Default Gateway |
 |----------|-----------|----------------|------------------|------------------|
 | S1       | VLAN 99   | 192.168.99.11   | 255.255.255.0    | N/A               |
@@ -27,7 +29,8 @@
 | PC5      | NIC       | 192.168.20.25   | 255.255.255.0    | 192.168.20.1      |
 | PC6      | NIC       | 192.168.30.26   | 255.255.255.0    | 192.168.30.1      |
 
-<ins>Initial Port Assignment</ins>
+### Initial Port Assignment
+
 | Ports         | Assignment                     | Network            |
 |---------------|--------------------------------|---------------------|
 | Fa0/1 – 0/5   | 802.1q Trunks (Native VLAN 99) | 192.168.99.0 /24     |

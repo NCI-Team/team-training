@@ -1,9 +1,11 @@
-### Goals
+# Goals
+
 - The trainee will understand how STP work.
 - The trainee will be familiar with the different types of STP.
 
-### Tasks
-- Watch [Introduction to Spanning-Tree](https://www.youtube.com/watch?v=ISNTZgiywO8) 
+## Tasks
+
+- Watch [Introduction to Spanning-Tree](https://www.youtube.com/watch?v=ISNTZgiywO8)
 - Watch [How Spanning-Tree Works](https://www.youtube.com/watch?v=5xMcvfn61-E)
 - How does STP create a loop-free topology?
 - What is a root bridge in STP, and how is it chosen?
@@ -17,4 +19,3 @@
 - What is BPDU message? In what situations this message is sent? What it contains?
 - What are the STP port states? Explain each one of them.
 - What are the port states in RSTP? What are the differences between those states to the regular STP's states?
-
