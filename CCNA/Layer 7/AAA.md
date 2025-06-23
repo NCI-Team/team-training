@@ -1,4 +1,4 @@
-# AAA – Trainee Guide
+# AAA – Trainer Guide
 
 ### Goals
 - Understand the function and components of AAA (Authentication, Authorization, and Accounting).
