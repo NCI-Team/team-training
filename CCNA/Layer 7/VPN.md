@@ -6,7 +6,7 @@
 
 ## Tasks
 
-- "Research the use of VPNs in private organizations, cloud environments, and general applications 
+- Research the use of VPNs in private organizations, cloud environments, and general applications 
 - Read [remote-access-vpn-vs-site-to-site-vpn-full-guide](https://www.vpnmentor.com/blog/remote-access-vpn-vs-site-to-site-vpn-full-guide) and answer the following questions:
 - What is a Remote-Access VPN
 - What is a Site-to-Site VPN
