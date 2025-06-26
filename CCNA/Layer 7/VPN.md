@@ -6,7 +6,7 @@
 
 ## Tasks
 
-- Read this turorial about VPN: [Defining-a-VPN.pdf](http://scitechconnect.elsevier.com/wp-content/uploads/2013/09/Defining-a-VPN.pdf)
+- "Research the use of VPNs in private organizations, cloud environments, and general applications 
 - Read [remote-access-vpn-vs-site-to-site-vpn-full-guide](https://www.vpnmentor.com/blog/remote-access-vpn-vs-site-to-site-vpn-full-guide) and answer the following questions:
 - What is a Remote-Access VPN
 - What is a Site-to-Site VPN
