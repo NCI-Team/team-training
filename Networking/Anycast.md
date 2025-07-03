@@ -1,0 +1,15 @@
+# Anycast – Trainee Guide
+
+### Goals
+
+- Understand what is Anycast.
+- Learn the diffrences between anycast and other routing methods.
+- Understand when and how anycast is used.
+
+### Tasks
+
+- What is Anycast?
+- Why should you use Anycast? How does it improve availability and performance in networks?
+- Describe how routing works in Anycast. How does a router decide which node to send traffic to?
+- Give a real world example of a service that benefits from Anycast. Why does Anycast suit this use case?
+- What are the potential pitfalls or risks when using Anycast?
