@@ -31,36 +31,26 @@
 - What are the potential risks if the VPC peer-link goes down?
 
 
-#### Lab
-# Packet Tracer Lab: Practicing Port Channel (PC) and Simulated VPC Concepts
-
-## Objective
-
-- Configure and verify a Port Channel (EtherChannel) between two Cisco switches.
-- Simulate a VPC-like setup by connecting a host to two switches with EtherChannels for redundancy.
-
 ---
 
-## Lab Topology
+#### 🧪 Lab: Configuring PortChannel (EtherChannel) in Cisco Packet Tracer
 
-```
-      +-----------+         +-----------+
-      |  Switch1  |---------|  Switch2  |
-      +-----------+         +-----------+
-          |                     |
-          |                     |
-        (PC1)                (PC2)
-          |                     |
-      +-----------------------------+
-      |          Host1              |
-      +-----------------------------+
-```
+##### 🎯 Objective
+- Configure a Layer 2 EtherChannel between two Cisco switches using LACP.
+- Verify EtherChannel operation using built-in commands.
 
-**Legend:**  
-- Switch1 & Switch2: Cisco 2960 or 3560 switches  
-- Host1: PC with two NICs (use two FastEthernet links)  
-- PC1: Port Channel between Switch1 and Host1  
-- PC2: Port Channel between Switch2 and Host1
+##### 🧰 Devices Required
 
+- 2 × Cisco 2960 Switches (SW1, SW2)
+- 2 × PCs (PC1, PC2)
+- 4 × Copper Straight-Through Cables
+
+##### 🔌 Physical Connections
+
+| Device | Interface         | Connected to | Interface         |
+|--------|-------------------|--------------|-------------------|
+| SW1    | FastEthernet 0/1  | SW2          | FastEthernet 0/1  |
+| SW1    | FastEthernet 0/2  | SW2          | FastEthernet 0/2  |
+| SW1    | FastEthernet 0/3  | PC1          | FastEthernet 0    |
+| SW2    | FastEthernet 0/3  | PC2          | FastEthernet 0    |
 ---
-
