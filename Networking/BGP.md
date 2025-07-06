@@ -9,6 +9,7 @@
 
 ### Tasks
 
+- Watch this course about BGP: [BGP and Path Selection](https://www.pluralsight.com/courses/cisco-enterprise-networks-bgp-path-control)
 - In BGP, what is an Autonomous System (AS), what routing protocols can it use internally, what are the private ASN ranges, and what are the consequences of using an unauthorized public ASN?
 - Explain the purpose of BGP and how it differs from OSPF.
 - What are the types of BGP messages and what is the purpose of each?
