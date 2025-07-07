@@ -14,6 +14,7 @@
 
 
 #### PortChannel
+
 - What is a Port Channel (PC)?
 - How does a Port Channel combine multiple physical links?
 - What protocols can be used for Port Channel negotiation?
@@ -24,6 +25,7 @@
 
 
 #### VPC
+
 - What is a Virtual Port Channel (VPC)?
 - How is a VPC different from a traditional Port Channel?
 - What is the purpose of the VPC peer-link?
@@ -36,6 +38,7 @@
 #### 🧪 Lab: Configuring PortChannel (EtherChannel) in Cisco Packet Tracer
 
 ##### 🎯 Objective
+
 - Configure a Layer 2 EtherChannel between two Cisco switches using LACP.
 - Verify EtherChannel operation using built-in commands.
 

@@ -1,7 +1,9 @@
 ### Goals
+
 - The trainee will realize how does the dynamic routing ospf work  
 
 ### OSPF
+
 - Read this document about OSPF: [OSPF.pdf](https://www.routeralley.com/guides/ospf.pdf)
 - Watch this lesson about OSPF: [OSPF deep dive](https://app.pluralsight.com/library/courses/protocol-deep-dive-ospf/table-of-contents)
 - Explain the role of the Hello protocol in OSPF and the information exchanged in Hello messages.

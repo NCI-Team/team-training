@@ -1,6 +1,7 @@
 # AAA – Trainee Guide
 
-### Goals
+## Goals
+
 - Understand the function and components of AAA (Authentication, Authorization, and Accounting).
 - Learn the key differences between TACACS+ and RADIUS protocols.
 - Understand benefits and drawbacks of using AAA servers in production.
@@ -9,13 +10,15 @@
 
 ---
 
-### Tasks
+## Tasks
 
-#### AAA Basics
+### AAA Basics
+
 - What is AAA server?
 - What are the three components of AAA, and what role does each play?
 
-#### TACACS+ vs. RADIUS
+### TACACS+ vs. RADIUS
+
 - What are the main differences between TACACS+ and RADIUS regarding:
   - Protocol used
   - Encryption
@@ -25,16 +28,19 @@
   - Vendor support
 - Why might an organization choose TACACS+ over RADIUS?
 
-#### AAA in Production
+### AAA in Production
+
 - What are the benefits of using an AAA server in a production environment?
 - What are the potential drawbacks or challenges when deploying AAA?
 
-#### Identity Management vs AAA
+### Identity Management vs AAA
+
 - How do identity management tools differ from AAA servers?
 
 ---
 
-### Bonus Question
+## Bonus Question
+
 - How can you use existing LDAP users to authenticate to network devices without duplicating user accounts?
 
 ---
