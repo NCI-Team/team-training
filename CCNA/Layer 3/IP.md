@@ -1,18 +1,24 @@
-# IP
+# IP – Trainee Guide
 
-## Q&A
+## Goals
 
-    1. Describe the packet header of IPv4 packets.
-    1. Explain the flow of the ARP protocol.
-    2. What is ARP Spoofing?
-    3. Explain what is a gratuitous ARP and how it prevents flooding. Familiarize yourself with the term "silent host".
-    4. In IPv6, what is a link-local address? Why does every IPv6-enabled device have one, and how is it different from a global unicast address?
-    5. Compare ARP operation in IPv4 networks versus how address resolution is handled in IPv6 networks.
-    6. What is the purpose of the loopback IP address (127.0.0.1)? How is it useful during troubleshooting?
-    7. What is the meaning of a static route with 0.0.0.0/0 as the destination network? Why is this sometimes called a "default route"?
-    8. Can you configure multiple default gateways on a single device? If so, how does the device decide which one to use?
-    9. Imagine a router has multiple static routes to the same destination network with different next-hop IP addresses. How does the router decide which route to use?
-    10. Using Packet Tracer,
+    - The trainee will understand the IP concept.
+    - The trainee will understand ARPing.
+
+## Tasks
+
+- Describe the packet header of IPv4 packets.
+- Explain the flow of the ARP protocol.
+- What is ARP Spoofing?
+- Explain what is a gratuitous ARP and how it prevents flooding. Familiarize yourself with the term "silent host".
+- In IPv6, what is a link-local address? Why does every IPv6-enabled device have one, and how is it different from a global unicast address?
+- Compare ARP operation in IPv4 networks versus how address resolution is handled in IPv6 networks.
+- What is the purpose of the loopback IP address (127.0.0.1)? How is it useful during troubleshooting?
+- What is the meaning of a static route with 0.0.0.0/0 as the destination network? Why is this sometimes called a "default route"?
+- Can you configure multiple default gateways on a single device? If so, how does the device decide which one to use?
+- Imagine a router has multiple static routes to the same destination network with different next-hop IP addresses. How does the router decide which route to use?
+
+- Using Packet Tracer,
         You are tasked to build a basic network connecting two remote offices through routers.
         You must configure default gateways for all PCs and set up static routes between routers to ensure full communication across the network.
 

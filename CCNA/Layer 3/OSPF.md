@@ -1,8 +1,8 @@
-### Goals
+# Goals
 
 - The trainee will realize how does the dynamic routing ospf work  
 
-### OSPF
+## OSPF
 
 - Read this document about OSPF: [OSPF.pdf](https://www.routeralley.com/guides/ospf.pdf)
 - Watch this lesson about OSPF: [OSPF deep dive](https://app.pluralsight.com/library/courses/protocol-deep-dive-ospf/table-of-contents)
@@ -17,4 +17,4 @@
 - Explain the issue that arises when using OSPF in broadcast networks and how the introduction of Designated Router (DR) and Backup Designated Router (BDR) helps address this problem.
 - Describe the different OSPF neighbor states and what happens in each state.
 - Explain the concept of multi-area OSPF and the roles of Area Border Routers (ABRs), Backbone Routers, and Autonomous System Border Routers (ASBRs).
-- An OSPF adjacency is stuck in the EXSTART or EXCHANGE state. While basic connectivity and other OSPF parameters appear correct, what issue could be causing this specific problem state 
+- An OSPF adjacency is stuck in the EXSTART or EXCHANGE state. While basic connectivity and other OSPF parameters appear correct, what issue could be causing this specific problem state.

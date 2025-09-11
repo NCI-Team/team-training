@@ -28,11 +28,6 @@
   - Vendor support
 - Why might an organization choose TACACS+ over RADIUS?
 
-### AAA in Production
-
-- What are the benefits of using an AAA server in a production environment?
-- What are the potential drawbacks or challenges when deploying AAA?
-
 ### Identity Management vs AAA
 
 - How do identity management tools differ from AAA servers?
