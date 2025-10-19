@@ -1,9 +1,11 @@
 # CCNA
 
 ## Overview
+
 This part of the training focuses on CCNA-level networking knowledge. It covers foundational concepts, protocols, and configurations from Layer 2 to Layer 7, with hands-on labs to reinforce practical skills.
 
 ## Training Structure
+
 | File Name   | Subjects Covered |
 | ----------- | ---------------- |
 | `Layer2` | Subnetting: IP subnetting, CIDR, VLSM, and practical subnet configuration. <br> VLANs: VLAN concepts, trunking, access/trunk ports, and configuration. <br> STP: Spanning Tree Protocol, root bridge election, port roles, and port states. |
